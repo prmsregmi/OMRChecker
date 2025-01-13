@@ -1,0 +1,72 @@
+{
+  "pageDimensions": [
+    2538,
+    3305
+  ],
+  "bubbleDimensions": [
+    36,
+    36
+  ],
+  "customLabels": {
+    "Name": [
+      "name20",
+      "name19",
+      "name18",
+      "name17",
+      "name16",
+      "name15",
+      "name14",
+      "name13",
+      "name12",
+      "name11",
+      "name10",
+      "name9",
+      "name8",
+      "name7",
+      "name6",
+      "name5",
+      "name4",
+      "name3",
+      "name2",
+      "name1"
+    ]
+  },
+  "fieldBlocks": {
+    "q01block": {
+      "origin": [
+        212,
+        1298
+      ],
+      "bubblesGap": 50.25,
+      "labelsGap": 99.85,
+      "fieldLabels": [
+        "q1..20"
+      ],
+      "fieldType": "QTYPE_MCQ4"
+    },
+    "q21block": {
+      "origin": [
+        611,
+        1298
+      ],
+      "bubblesGap": 50.23,
+      "labelsGap": 99.85,
+      "fieldLabels": [
+        "q21..25"
+      ],
+      "fieldType": "QTYPE_MCQ4"
+    },
+    "Name": {
+      "fieldType": "QTYPE_STR",
+      "origin": [
+        510,
+        242
+      ],
+      "bubblesGap": 50,
+      "labelsGap": 50.25,
+      "fieldLabels": [
+        "name1..20"
+      ]
+    }
+  }
+}

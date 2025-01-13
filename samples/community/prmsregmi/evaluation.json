@@ -1,0 +1,43 @@
+{
+    "source_type": "custom",
+    "options": {
+      "questions_in_order": [
+        "q1..25"
+      ],
+      
+      "answers_in_order": [
+          "A",
+          "B",
+          "A",
+          "A",
+          "A",
+          "A",
+          "C",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "D",
+          "B",
+          "C",
+          "A",
+          "C",
+          "C",
+          "A",
+          "C",
+          "B",
+          "D",
+          "D",
+          "C",
+          "C"
+      ]
+    },
+      "marking_schemes":{
+          "DEFAULT": {
+              "correct": "1", 
+              "incorrect": "0", 
+              "unmarked": "0" 
+          }
+      }
+}

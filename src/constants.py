@@ -37,6 +37,11 @@ FIELD_TYPES = {
         "bubbleValues": ["A", "B", "C", "D", "E"],
         "direction": "horizontal",
     },
+
+    "QTYPE_STR": {
+        "bubbleValues": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"],
+        "direction": "horizontal",
+    },
     #
     # You can create and append custom field types here-
     #
@@ -51,4 +56,4 @@ CLR_DARK_GRAY = (100, 100, 100)
 
 # TODO: move to config.json
 GLOBAL_PAGE_THRESHOLD_WHITE = 200
-GLOBAL_PAGE_THRESHOLD_BLACK = 100
+GLOBAL_PAGE_THRESHOLD_BLACK = 0
